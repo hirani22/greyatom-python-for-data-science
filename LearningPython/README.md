@@ -1,0 +1,1 @@
+A Basic Student Management System written in Python, with insertion,deletion and editable user-input data.
